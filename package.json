@@ -3,7 +3,7 @@
   "description": "ucanuse-nitif number input type in firefox. ucanuse-nitif a custom polyfill for reactjs.",
   "author": "Gökhan Ç.",
   "keywords": ["react", "input number type"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GokhanCerk/ucanuse-nitif"
