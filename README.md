@@ -29,7 +29,7 @@ import { Input } from "ucanuse-nitif/dist/index";
 | Name        | Description      
 | ----------- | -----------      
 | label        | Input label name| 'Outline' | 'Inline' | 'Ghost' | ' Warning'            
-| input     | object - id attribute must   
+| input     | object - id property must   
        
 
 
